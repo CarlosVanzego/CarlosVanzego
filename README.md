@@ -1,4 +1,4 @@
-<h1>Hi, I'm Carlos, an <a href="https://www.linkedin.com/in/carlos-vanzego-2a3b07104/">Software Developer</a>👾</h1>
+<h1>Hi, I'm Carlos, n <a href="https://www.linkedin.com/in/carlos-vanzego-2a3b07104/">Software Developer</a>👾</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
