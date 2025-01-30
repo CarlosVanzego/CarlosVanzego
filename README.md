@@ -1,6 +1,6 @@
-<h1>Hi, I'm Carlos, an <a href="https://www.linkedin.com/in/carlos-vanzego-2a3b07104/">IT Professional/Software Developer</a>👾</h1>
+<h1>Hi, I'm Carlos, an <a href="https://www.linkedin.com/in/carlos-vanzego-2a3b07104/">Software Developer</a>👾</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/CarlosVanzego/osticket-prereqs)
