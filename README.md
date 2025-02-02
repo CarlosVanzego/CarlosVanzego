@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>News Application (Python3, Flask, Bootstrap)</b>
-  - [News App: Python3, Flask, Bootstrap](https://github.com/CarlosVanzego/news-application)
+  - [Blog App: Python3, Flask, sqlite3](https://github.com/CarlosVanzego/Flaskr-Blog-Application)
   - A dynamic news aggregation app with CRUD functionality and API integration.
 
 - <b>Object-Oriented Programming in Python</b>
