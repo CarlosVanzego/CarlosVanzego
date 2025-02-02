@@ -1,17 +1,36 @@
-<h1>Hi, I'm Carlos, a <a href="https://www.linkedin.com/in/carlos-vanzego-2a3b07104/">Software Developer</a>👾</h1>
+<h1>Hi, I'm Carlos, a <a href="https://www.linkedin.com/in/carlos-vanzego-2a3b07104/">Python Developer</a>👾</h1>
+
+<p>I'm a Python Developer specializing in web development, problem-solving, and building scalable applications. I have a solid foundation in object-oriented programming, algorithms, and data structures, and I'm currently pursuing Software Engineering roles.</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/CarlosVanzego/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/CarlosVanzego/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/CarlosVanzego/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/CarlosVanzego/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarlosVanzego/azure-network-protocols)
+- <b>News Application (Python3, Flask, Bootstrap)</b>
+  - [News App: Python3, Flask, Bootstrap](https://github.com/CarlosVanzego/news-application)
+  - A dynamic news aggregation app with CRUD functionality and API integration.
 
-<h2>🤳Connect with me:</h2>
+- <b>Object-Oriented Programming in Python</b>
+  - [OOP in Python](https://github.com/CarlosVanzego/Object-Oriented-Programming-Python)
+  - A demonstration of my understanding of OOP principles in Python.
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- <b>Python Algorithms and Data Structures</b>
+  - [Python Practice (Algorithms, Data Structures)](https://github.com/CarlosVanzego/python_practice)
+  - A collection of algorithms and data structure implementations in Python.
+
+- <b>REST API with Node.js and Express</b>
+  - [Node.js REST API](https://github.com/CarlosVanzego/REST-API-with-Node.js-and-Express-CRUD)
+  - A backend API with CRUD operations built using Node.js and Express.
+
+- <b>React Hangman Game</b>
+  - [React Hangman Game](https://github.com/CarlosVanzego/react-hangman)
+  - A simple, interactive Hangman game built with React.
+
+<h2>⚙️ Skills & Technologies:</h2>
+- **Languages:** Python, JavaScript, C++
+- **Technologies:** Flask, Django, React, Node.js, PostgreSQL, MongoDB, Git
+- **Tools:** Docker, AWS, CI/CD, REST APIs
+
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="Carlos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/carlos-vanzego-2a3b07104/
