@@ -1,28 +1,17 @@
-# Hi, I'm Carlos Vanzego 👋
+<h1>Hi, I'm Carlos, a <a href="https://www.linkedin.com/in/carlos-vanzego-2a3b07104/">Software Developer</a>👾</h1>
 
-I'm a Python Developer specializing in web development, problem-solving, and building scalable applications. I have a solid foundation in object-oriented programming, algorithms, and data structures, and I'm currently pursuing my first Software Engineering role.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-### Skills
-- **Languages:** Python, JavaScript, C++
-- **Technologies:** Flask, Django, React, Node.js, PostgreSQL, MongoDB, Git
-- **Tools:** Docker, AWS, CI/CD, REST APIs
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/CarlosVanzego/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/CarlosVanzego/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/CarlosVanzego/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/CarlosVanzego/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarlosVanzego/azure-network-protocols)
 
-### Projects
+<h2>🤳Connect with me:</h2>
 
-- **[News Application (Python3, Flask, Bootstrap)](link)**
-   - A dynamic news aggregation app with CRUD functionality and API integration.
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- **[Object-Oriented-Programming-Python](link)**
-   - A demonstration of my understanding of OOP principles in Python.
-
-- **[Python Practice (Algorithms, Data Structures)](link)**
-   - A collection of algorithms and data structure implementations.
-
-- **[REST API with Node.js and Express](link)**
-   - A backend API with CRUD operations built using Node.js and Express.
-
-- **[React Hangman Game](link)**
-   - A simple, interactive Hangman game built with React.
-
-### Get in Touch
-Feel free to connect with me via [LinkedIn](link) or shoot me an email at [your-email@example.com].
+[linkedin]: https://www.linkedin.com/in/carlos-vanzego-2a3b07104/
