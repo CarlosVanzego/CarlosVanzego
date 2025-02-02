@@ -25,10 +25,11 @@
   - A simple, interactive Hangman game built with React.
 
 <h2>⚙️ Skills & Technologies:</h2>
+
 - **Languages:** Python, JavaScript, C++
 
 - **Technologies:** Flask, Django, React, Node.js, PostgreSQL, Sqlite3, MongoDB, Git
-- 
+  
 - **Tools:** Docker, AWS, CI/CD, REST APIs
 
 <h2>🤳 Connect with me:</h2>
