@@ -1,6 +1,6 @@
-<h1>Hi, I'm Carlos, a <a href="https://www.linkedin.com/in/carlos-vanzego-2a3b07104/">Python Developer</a>👾</h1>
+<h1>Hi, I'm Carlos, a <a href="https://www.linkedin.com/in/carlos-vanzego-2a3b07104/">Python Developer</a>🐍</h1>
 
-<p>I'm a Python Developer specializing in web development, problem-solving, and building scalable applications. I have a solid foundation in object-oriented programming, algorithms, and data structures, and I'm currently pursuing Software Engineering roles.</p>
+<p>I'm a Python Developer specializing in web development, problem-solving, and building scalable applications. I have a solid foundation in object-oriented programming, algorithms, and data structures.</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
